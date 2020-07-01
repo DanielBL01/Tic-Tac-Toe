@@ -1,7 +1,7 @@
 # Two Tic-Tac Toe games - Player vs Player and Player vs AI
 
-The file 'player-player.py' is the standard player vs player game of tic-tac-toe
-The file 'player-ai.py' is the player vs ai game of tic-tac-toe
+- The file 'player-player.py' is the standard player vs player game of tic-tac-toe
+- The file 'player-ai.py' is the player vs ai game of tic-tac-toe
 
 Both games do not use any libraries or frameworks like Pygame. They just run on the terminal window
 
